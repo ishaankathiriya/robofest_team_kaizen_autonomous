@@ -1,0 +1,56 @@
+[0.222s] Invoking command in '/home/ishaan/turtlebot_sim/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ishaan/turtlebot_sim/install/turtlebot3_online_slam_navigation:/home/ishaan/turtlebot3_ws/install/turtlebot3_teleop:/home/ishaan/turtlebot3_ws/install/turtlebot3_example:/home/ishaan/ws_moveit2/install/moveit_configs_utils:/home/ishaan/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/ishaan/turtlebot_sim/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/ishaan/turtlebot_sim/install/turtlebot3_navigation2
+[0.431s] -- The C compiler identification is GNU 11.4.0
+[0.432s] -- The CXX compiler identification is GNU 11.4.0
+[0.432s] -- Detecting C compiler ABI info
+[0.487s] -- Detecting C compiler ABI info - done
+[0.497s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.497s] -- Detecting C compile features
+[0.498s] -- Detecting C compile features - done
+[0.502s] -- Detecting CXX compiler ABI info
+[0.610s] -- Detecting CXX compiler ABI info - done
+[0.620s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.621s] -- Detecting CXX compile features
+[0.621s] -- Detecting CXX compile features - done
+[0.633s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.853s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.067s] -- Configuring done
+[1.069s] -- Generating done
+[1.070s] -- Build files have been written to: /home/ishaan/turtlebot_sim/build/turtlebot3_navigation2
+[1.074s] Invoked command in '/home/ishaan/turtlebot_sim/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ishaan/turtlebot_sim/install/turtlebot3_online_slam_navigation:/home/ishaan/turtlebot3_ws/install/turtlebot3_teleop:/home/ishaan/turtlebot3_ws/install/turtlebot3_example:/home/ishaan/ws_moveit2/install/moveit_configs_utils:/home/ishaan/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/ishaan/turtlebot_sim/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/ishaan/turtlebot_sim/install/turtlebot3_navigation2
+[1.076s] Invoking command in '/home/ishaan/turtlebot_sim/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ishaan/turtlebot_sim/install/turtlebot3_online_slam_navigation:/home/ishaan/turtlebot3_ws/install/turtlebot3_teleop:/home/ishaan/turtlebot3_ws/install/turtlebot3_example:/home/ishaan/ws_moveit2/install/moveit_configs_utils:/home/ishaan/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/ishaan/turtlebot_sim/build/turtlebot3_navigation2 -- -j12 -l12
+[1.155s] Invoked command in '/home/ishaan/turtlebot_sim/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ishaan/turtlebot_sim/install/turtlebot3_online_slam_navigation:/home/ishaan/turtlebot3_ws/install/turtlebot3_teleop:/home/ishaan/turtlebot3_ws/install/turtlebot3_example:/home/ishaan/ws_moveit2/install/moveit_configs_utils:/home/ishaan/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/ishaan/turtlebot_sim/build/turtlebot3_navigation2 -- -j12 -l12
+[1.156s] Invoking command in '/home/ishaan/turtlebot_sim/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ishaan/turtlebot_sim/install/turtlebot3_online_slam_navigation:/home/ishaan/turtlebot3_ws/install/turtlebot3_teleop:/home/ishaan/turtlebot3_ws/install/turtlebot3_example:/home/ishaan/ws_moveit2/install/moveit_configs_utils:/home/ishaan/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/ishaan/turtlebot_sim/build/turtlebot3_navigation2
+[1.171s] -- Install configuration: ""
+[1.171s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger.yaml
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle_pi.yaml
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger_cam.yaml
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle.yaml
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger_cam.yaml
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[1.172s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz
+[1.173s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[1.173s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[1.173s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[1.173s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[1.173s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[1.173s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[1.173s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[1.173s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[1.173s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[1.174s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[1.174s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[1.174s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[1.174s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[1.174s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[1.174s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[1.174s] -- Installing: /home/ishaan/turtlebot_sim/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[1.193s] Invoked command in '/home/ishaan/turtlebot_sim/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ishaan/turtlebot_sim/install/turtlebot3_online_slam_navigation:/home/ishaan/turtlebot3_ws/install/turtlebot3_teleop:/home/ishaan/turtlebot3_ws/install/turtlebot3_example:/home/ishaan/ws_moveit2/install/moveit_configs_utils:/home/ishaan/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/ishaan/turtlebot_sim/build/turtlebot3_navigation2

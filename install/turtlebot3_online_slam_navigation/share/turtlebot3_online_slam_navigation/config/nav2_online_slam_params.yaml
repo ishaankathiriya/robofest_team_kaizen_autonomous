@@ -172,7 +172,7 @@ local_costmap:
           obstacle_min_range: 0.0
       always_send_full_costmap: True
 
-# CRITICAL: Modified global costmap - NO static layer, only obstacle and inflation
+# CRITICAL: Modified global costmap - Rolling window for online SLAM
 global_costmap:
   global_costmap:
     ros__parameters:
@@ -184,6 +184,9 @@ global_costmap:
       robot_radius: 0.22
       resolution: 0.05
       track_unknown_space: true
+      rolling_window: true
+      width: 10
+      height: 10
       plugins: ["obstacle_layer", "inflation_layer"]  # NO static_layer!
       
       obstacle_layer:
