@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ishaan/robofest_team_kaizen_autonomous/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ishaan/robofest_team_kaizen_autonomous/install/turtlebot3_online_slam_navigation/lib/python3.10/site-packages",
+        "/home/ishaan/robofest_team_kaizen_autonomous/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/ishaan/ws_moveit2/install/moveit_task_constructor_core/local/lib/python3.10/dist-packages",
+        "/home/ishaan/ws_moveit2/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/home/ishaan/ws_moveit2/install/srdfdom/local/lib/python3.10/dist-packages",
+        "/home/ishaan/ws_moveit2/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/ishaan/ws_moveit2/install/launch_param_builder/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ishaan/robofest_team_kaizen_autonomous/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ishaan/robofest_team_kaizen_autonomous/install/turtlebot3_online_slam_navigation/lib/python3.10/site-packages",
+        "/home/ishaan/robofest_team_kaizen_autonomous/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/ishaan/ws_moveit2/install/moveit_task_constructor_core/local/lib/python3.10/dist-packages",
+        "/home/ishaan/ws_moveit2/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/home/ishaan/ws_moveit2/install/srdfdom/local/lib/python3.10/dist-packages",
+        "/home/ishaan/ws_moveit2/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/ishaan/ws_moveit2/install/launch_param_builder/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
