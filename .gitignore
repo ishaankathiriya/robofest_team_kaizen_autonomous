@@ -1,0 +1,30 @@
+# Ignore ROS 2 workspace build artifacts
+build/
+install/
+log/
+
+# Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Colcon and CMake generated files
+colcon*.log
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.ninja
+*.make
+*.swp
+
+# Visual Studio Code and CLion configs
+.vscode/
+.idea/
+
+# Miscellaneous system files
+.DS_Store
+Thumbs.db
+
+# ROS 2 metadata (optional)
+rosdep.yaml
+ament_index/
